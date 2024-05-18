@@ -1,6 +1,11 @@
+// commentssssssss
 public class NewClass {
 int i;
 public void test() {}
 }
-class Dogs {}
-class Cats {}
+class Dogs {
+    String name;
+}
+class Cats {
+    String name;
+}
