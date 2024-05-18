@@ -9,3 +9,4 @@ class Dogs {
 class Cats {
     String name;
 }
+class Frogs {}
